@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @indrabhekti
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Progamming
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 <!---
